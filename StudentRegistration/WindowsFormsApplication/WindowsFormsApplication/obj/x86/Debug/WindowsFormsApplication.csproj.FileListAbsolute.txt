@@ -1,0 +1,8 @@
+D:\Soft\project\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+D:\Soft\project\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+D:\Soft\project\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.csprojAssemblyReference.cache
+D:\Soft\project\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Form1.resources
+D:\Soft\project\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.Properties.Resources.resources
+D:\Soft\project\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.csproj.GenerateResource.cache
+D:\Soft\project\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.exe
+D:\Soft\project\WindowsFormsApplication\WindowsFormsApplication\obj\x86\Debug\WindowsFormsApplication.pdb
